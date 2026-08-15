@@ -1,6 +1,5 @@
 import React from 'react';
 import { ArrowRight, Play, Sparkles } from 'lucide-react';
-import heroDriveImg from '../assets/images/hero_drive_custom.png';
 
 interface HeroProps {
   onShopClick: () => void;
@@ -119,10 +118,9 @@ export const Hero: React.FC<HeroProps> = ({ onShopClick, onWatchStory }) => {
               {/* Main Image Frame displaying full picture without cropping */}
               <div className="relative rounded-[24px] overflow-hidden border border-[#EEDEB8] shadow-2xl bg-[#1C1714] group h-[520px] sm:h-[600px] lg:h-[640px] flex items-center justify-center">
                 <img 
-                  src={heroDriveImg} 
+                  src="/hero_handcrafted_bangles_17867998484913.jpg" 
                   alt="Handcrafted luxury bangles collection showcase" 
-                  className="w-full h-full object-contain mx-auto block"
-                  referrerPolicy="no-referrer"
+                  className="w-full h-full object-cover rounded-2xl"
                 />
               </div>
 
