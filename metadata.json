@@ -1,0 +1,6 @@
+{
+  "name": "Stellify",
+  "description": "Exquisite fine jewelry e-commerce boutique featuring timeless handcrafted gold necklaces, earrings, diamond rings, bracelets, and bespoke bridal jewelry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
