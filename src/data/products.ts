@@ -4,28 +4,28 @@ export const CATEGORIES: CategoryItem[] = [
   {
     id: 'sherish',
     name: 'SHERISH',
-    image: '/category_sherish.jpg',
+    image: '/sherish-showcase.png',
     itemCount: 24,
     tagline: 'Handcrafted signature bangles & jewelry'
   },
   {
     id: 'charoal',
     name: 'CHAROAL',
-    image: '/category_charoal.jpg',
+    image: '/charoal-showcase.png',
     itemCount: 32,
     tagline: 'Artisanal jewellery & statement pieces'
   },
   {
     id: 'meher',
     name: 'MEHER',
-    image: '/category_meher.jpg',
+    image: '/meher-showcase.png',
     itemCount: 28,
     tagline: 'Heritage bangles & silk thread artistry'
   },
   {
     id: 'lustrous',
     name: 'LUSTROUS',
-    image: '/category_lustrous.jpg',
+    image: '/lustrous-showcase.png',
     itemCount: 19,
     tagline: 'Radiant gold accents & sparkling gemstone artistry'
   }
@@ -40,7 +40,7 @@ export const PRODUCTS: Product[] = [
     rating: 5.0,
     reviewsCount: 128,
     images: [
-      '/category_sherish.jpg'
+      '/sherish-showcase.png'
     ],
     description: 'Handcrafted signature bangles suite crafted with royal blue and cyan silk thread, white Kundan floral motifs, embedded mirrors, and continuous pearl-and-gold bead chains.',
     metal: '18K Yellow Gold',
@@ -65,7 +65,7 @@ export const PRODUCTS: Product[] = [
     rating: 5.0,
     reviewsCount: 96,
     images: [
-      '/category_charoal.jpg'
+      '/charoal-showcase.png'
     ],
     description: 'Jet black silk thread base with a subtle matte-satin sheen, adorned with a geometric Kundan arrangement of teardrop and diamond-cut champagne stones and gold-framed pearl accents.',
     metal: '18K Yellow Gold',
@@ -90,7 +90,7 @@ export const PRODUCTS: Product[] = [
     rating: 5.0,
     reviewsCount: 84,
     images: [
-      '/category_meher.jpg'
+      '/meher-showcase.png'
     ],
     description: 'Exquisite MEHER handcrafted bangles suite showcasing rich silk thread artistry, intricate Kundan stone work, and glistening golden bead trims.',
     metal: '18K Yellow Gold',
@@ -114,7 +114,7 @@ export const PRODUCTS: Product[] = [
     rating: 5.0,
     reviewsCount: 42,
     images: [
-      '/category_lustrous.jpg'
+      '/lustrous-showcase.png'
     ],
     description: 'The LUSTROUS collection features radiant silk thread artistry paired with sparkling gemstone accents and polished gold-toned motifs for a truly brilliant aesthetic.',
     metal: '18K Yellow Gold',
