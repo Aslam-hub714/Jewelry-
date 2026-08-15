@@ -120,7 +120,7 @@ export const Hero: React.FC<HeroProps> = ({ onShopClick, onWatchStory }) => {
                 <img
                   src="/hero-bangles-showcase.png"
                   alt="Handcrafted luxury bangles collection showcase"
-                  className="w-full h-full object-cover rounded-2xl"
+                  className="w-full h-full object-contain rounded-2xl"
                 />
               </div>
 
